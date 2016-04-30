@@ -1,0 +1,22 @@
+{
+  "name": "irc_tutorial",
+  "version": "1.0.0",
+  "description": "Javascript IRC client tutorial",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DCStudios/irc_tutorial.git"
+  },
+  "author": "Cédrik Dubois",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/DCStudios/irc_tutorial/issues"
+  },
+  "homepage": "https://github.com/DCStudios/irc_tutorial#readme",
+  "devDependencies": {
+    "node-irc": "0.0.3"
+  }
+}
